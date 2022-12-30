@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hariyogi
-- 👀 I’m interested in Java and Game developing
+- 👀 I’m interested in Java, Building Enterprise System and trying new technology.
 - 🌱 I’m currently learning Spring, Quarkus, Microservices, Enteprise System, Libgdx and many more..
 
 <!---
